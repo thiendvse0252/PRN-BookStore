@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "BookStore": "server=VANTHIEN-SE;database=BookStore;uid=sa;pwd=12345;TrustServerCertificate=True"
+  }
+}
